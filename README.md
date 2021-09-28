@@ -4,16 +4,19 @@ Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, mú
 :us:
 I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. I'm currently a student in Trybe Web Development School.   <br><br>
 **Sou proficiente em / I have proficiency in:** <br>
-*JavaScript <br>
-*HTML/CSS <br>
-*React.js <br>
-*Node.js <br>
-*MySQL <br>
-*MongoDB <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=50px />
 <br>
 **O que pretendo aprender num futuro próximo / What I intend to learn in the near future:** <br>
-*Java<br>
-*Python<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height=50px />
+<br>
 
 ### Entre em contato comigo:
 <img src="https://camo.githubusercontent.com/570e16f5a55b89db3c5ec83e406169bdeb568bed862729e3ff1c9c2d0071595e/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3734372f3734373331342e706e67" width="30/" data-canonical-src="https://image.flaticon.com/icons/png/512/747/747314.png" style="max-width: 100%;"> vitor.fidanza@gmail.com
