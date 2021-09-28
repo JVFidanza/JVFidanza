@@ -1,8 +1,8 @@
 ## Olá / Hello there 👋
 🇧🇷
-Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️.  <br>
+Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️. Atualmente estudante na escola de Desenvolvimento Web Trybe. <br><br>
 :us:
-I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. <br><br>
+I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. I'm currently a student in Trybe Web Development School.   <br><br>
 **Sou proficiente em / I have proficiency in:** <br>
 *JavaScript <br>
 *HTML/CSS <br>
@@ -21,7 +21,7 @@ I am a FullStack Web Developer. I have great passion for technology 🖥️, mus
 <img src="https://camo.githubusercontent.com/184a911c841b09f878b2b40d96e176872f6491f26fae8af7b6b0aa8c7d68f4e1/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f38362f38363334362e706e67" width="30/" data-canonical-src="https://image.flaticon.com/icons/png/512/86/86346.png" style="max-width: 100%;">(85) 9 9125-4662
 <br>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-fidanza/">
-<img src="https://camo.githubusercontent.com/569e7445985638367bfebc52a6c196b7a852e859b1df3a11f45c211d6232b2e5/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f36312f36313130392e706e67" width="30/" data-canonical-src="https://image.flaticon.com/icons/png/512/61/61109.png" style="max-width: 100%;">@JVFidanza </a> <br>
+<img src="https://camo.githubusercontent.com/569e7445985638367bfebc52a6c196b7a852e859b1df3a11f45c211d6232b2e5/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f36312f36313130392e706e67" width="30/" data-canonical-src="https://image.flaticon.com/icons/png/512/61/61109.png" style="max-width: 100%;">@João-Vítor-Fidanza </a> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVFidanza&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
