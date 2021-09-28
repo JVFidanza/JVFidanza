@@ -1,6 +1,6 @@
-### Olá/Hello there 👋
+### Olá / Hello there 👋
 🇧🇷
-Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️. <br>
+Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️.  <br>
 :us:
 I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. <br><br>
 **Sou proficiente em / I have proficiency in:** <br>
@@ -10,6 +10,11 @@ I am a FullStack Web Developer. I have great passion for technology 🖥️, mus
 *Node.js <br>
 *MySQL <br>
 *MongoDB <br>
+<br>
+**O que pretendo aprender num futuro próximo / What I intend to learn in the near future:** <br>
+*Java<br>
+*Python<br>
+
 <!--
 **JVFidanza/JVFidanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
