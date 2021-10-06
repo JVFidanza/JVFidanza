@@ -29,6 +29,8 @@ I am a FullStack Web Developer. I have great passion for technology 🖥️, mus
 <img src="https://camo.githubusercontent.com/569e7445985638367bfebc52a6c196b7a852e859b1df3a11f45c211d6232b2e5/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f36312f36313130392e706e67" width="30/" data-canonical-src="https://image.flaticon.com/icons/png/512/61/61109.png" style="max-width: 100%;">@João-Vítor-Fidanza </a> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVFidanza&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVFidanza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JVFidanza/JVFidanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
