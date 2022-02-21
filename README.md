@@ -12,6 +12,8 @@ I am a FullStack Web Developer. I have great passion for technology 🖥️, mus
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height=50px />
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" height=50px />
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original-wordmark.svg" height=50px />
 <br>
 <br>
 **O que pretendo aprender num futuro próximo / What I intend to learn in the near future:** <br>
