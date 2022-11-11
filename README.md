@@ -3,7 +3,7 @@
 Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️. Atualmente estudante na escola de Desenvolvimento Web Trybe. <br><br>
 :us:
 I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. I'm currently a student in Trybe Web Development School.   <br><br>
-**Me garanto em / What I'm pretty good at:** <br>
+**Me garanto em / I'm pretty good at:** <br>
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" height=50px />
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px />
