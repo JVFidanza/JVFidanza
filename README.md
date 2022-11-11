@@ -1,7 +1,7 @@
 ## Olá / Hello there 👋
-🇧🇷
+
 Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️. Atualmente trabalho na empresa Meta. Estou alocado num projeto da BRF onde atuo como desenvolvedor back end .NET/C# <br><br>
-:us:
+
 I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️.
 I currently work at Meta. I'm allocated to a BRF project where I work as a .NET/C# backend developer   <br><br>
 **Me garanto em / I'm pretty good at:** <br>
