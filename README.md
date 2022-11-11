@@ -3,22 +3,23 @@
 Sou Desenvolvedor Web FullStack. Tenho forte paixão por tecnologia 🖥️, música 🎼 e culinária 🍽️. Atualmente estudante na escola de Desenvolvimento Web Trybe. <br><br>
 :us:
 I am a FullStack Web Developer. I have great passion for technology 🖥️, music 🎼 and culinary 🍽️. I'm currently a student in Trybe Web Development School.   <br><br>
-**Sou proficiente em / I have proficiency in:** <br>
+**Me garanto em / What I'm pretty good at:** <br>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" height=50px />
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height=50px />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" height=50px />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original-wordmark.svg" height=50px />
+<img src="https://img.icons8.com/fluency/512/azure-1.png" height=50px />
 <br>
 <br>
 **O que pretendo aprender num futuro próximo / What I intend to learn in the near future:** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height=50px />
 <br>
 
